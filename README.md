@@ -14,7 +14,7 @@ In development... I ask you to wait.
 ## **Description**
 
 
-#### Auto Replenishment System for Retailers and Franchises integrated with MS-SQL and automated with DAX, M, and VBA and uses the Exponential Smoothing algorithm (ETS).
+#### Auto Replenishment Suggestion System for Retailers and Franchises integrated with MS-SQL and automated with DAX, M, and VBA and uses the Exponential Smoothing algorithm (ETS).
 
 ```
 This project is for learning purposes and is available free of charge for anyone who wants to explore it.
