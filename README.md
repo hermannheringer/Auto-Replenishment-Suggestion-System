@@ -13,7 +13,7 @@
 ## **Description**
 
 
-#### Auto replenishment suggestion system using the Exponential Smoothing State Space Model (ETS) algorithm.
+#### Auto Replenishment System for Retailers and Franchises integrated with MS-SQL and automated with DAX, M, and VBA and uses the Exponential Smoothing algorithm (ETS).
 ```
 This project is for learning purposes and is available free of charge for anyone who wants to explore it. All data contained in the project is artificially generated and complies with GDPR.
 ```
