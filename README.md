@@ -1,5 +1,6 @@
 ![logo.png](README/logo.png)
 # Auto Replenishment Suggestion System
+In development... I ask you to wait.
 
   - [**Description**](#description)
   - [**Before you run!**](#before-you-run)
@@ -14,8 +15,10 @@
 
 
 #### Auto Replenishment System for Retailers and Franchises integrated with MS-SQL and automated with DAX, M, and VBA and uses the Exponential Smoothing algorithm (ETS).
+
 ```
-This project is for learning purposes and is available free of charge for anyone who wants to explore it. All data contained in the project is artificially generated and complies with GDPR.
+This project is for learning purposes and is available free of charge for anyone who wants to explore it.
+All data contained in the project is artificially generated and complies with GDPR.
 ```
 
 ##### Introduction:
@@ -92,7 +95,7 @@ If you just want to run the project, `download and unpack it` and then simply do
 
 The main file was developed to automate as much as possible the work of a Commercial Operations Analyst using several approaches simultaneously like VBA, DAX, SQL and M.
 
-Profound changes to the project require Sales and operations planning (S&OP) knowledge and Data Analysis knowledge.
+Profound changes to the project require Sales and Operations Planning (S&OP) knowledge and Data Analysis knowledge.
 
 
 ## **Compatibility**
@@ -102,4 +105,4 @@ This project was developed on the Windows platform with Office 365. Due to the n
 
 ## **Final considerations**
 
-If you understand what you're doing, consider learning more about Sales and operations planning (S&OP), SQL, Power BI, DAX, M, R, and Python. I will warn you: the learning curve is long with ups and downs... Don't be discouraged.
+If you understand what you're doing, consider learning more about Sales and Operations Planning (S&OP), SQL, Power BI, DAX, M, R, and Python. I will warn you: the learning curve is long with ups and downs... Don't be discouraged.
